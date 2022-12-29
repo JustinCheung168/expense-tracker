@@ -1,0 +1,9 @@
+# Do not remove db-private/ from this gitignore!!! 
+db-private/
+*__pycache__/
+
+#
+env*/
+
+# For Mac
+.DS_Store
